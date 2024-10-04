@@ -1,0 +1,60 @@
+@media (max-width:600px) {
+    .contain{
+        max-width: 1200px;
+        width: 1200px;
+        margin: 0 auto;
+        margin-top: 10rem;
+        /* border: 2px solid black; */
+        /* box-shadow: 0 2px 5px solid black; */
+        padding: 20px 20px;
+    }
+    .foot{
+        text-align: center;
+        color: red;
+    }
+    .foot:hover {
+        cursor: grab;
+        color: black;
+    }
+    .boxa:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+    .boxb:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+    .boxc:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+    .boxa1:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+    .box1:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+    .box2:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+    .box5:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+    .box3:hover{
+        scale: 1.10;
+        cursor: grab;
+        box-shadow: 0 2px 5px black;
+    }
+
+}
